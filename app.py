@@ -22,7 +22,7 @@ llm_chain = LLMChain(prompt=prompt, llm=llm)
 
 # Create the Streamlit app
 def main():
-    st.title("FALCON LLM Question-Answer App")
+    st.title("FALCON-40B Question-Answer App")
 
     # Get user input
     question = st.text_input("Enter your question")
