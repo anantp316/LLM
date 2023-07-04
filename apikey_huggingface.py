@@ -1,1 +1,1 @@
-apikey_hungingface = "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"
+apikey_huggingface = "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"
